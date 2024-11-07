@@ -1,28 +1,13 @@
-# Portfolio Optimization Using Monte Carlo Simulation
+# Portfolio Optimization Methods
+A project demonstrating the use of Monte Carlo simulations and optimization methods to maximize the Sharpe Ratio and minimize volatility in stock portfolios.
 
-This project demonstrates portfolio optimization using Monte Carlo simulations and optimization methods from SciPy. It aims to maximize the Sharpe ratio and minimize portfolio volatility using historical stock data from the Saudi index.
+## Project Overview
+This repository contains a project focused on optimizing a stock portfolio using Monte Carlo simulations. The goal is to maximize the **Sharpe Ratio** and minimize **volatility** through optimization techniques from the `SciPy` library. This project is applied to a selection of Saudi stocks, using **historical stock price data** obtained via `yfinance`.
 
-## Key Features
-- Monte Carlo simulations for portfolio risk and return analysis.
-- Optimization of the portfolio to maximize the Sharpe ratio and minimize volatility.
-- Visualizations of portfolio performance.
+## Installation
 
-## Getting Started
+To run this project locally, you can clone the repository and install the required dependencies. First, clone the repository:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/portfolio-optimization.git
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the Jupyter notebooks in `notebooks/` to explore the project.
-
-## Requirements
-- Python 3.x
-- Jupyter Notebook
-- Pandas, NumPy, SciPy, Matplotlib, yfinance, requests
-
+```bash
+git clone https://github.com/Ammaryasser1998/Portfolio-Optimization-Methods.git
+cd Portfolio-Optimization-Methods
