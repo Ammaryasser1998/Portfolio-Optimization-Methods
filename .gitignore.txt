@@ -1,0 +1,8 @@
+*.pyc            # Python compiled files
+*.pyo            # Python optimized files
+.ipynb_checkpoints/  # Jupyter notebook checkpoints
+__pycache__/     # Python cache directories
+data/            # If you have any raw data folders (e.g., downloaded datasets)
+.env             # If you have environment variables or secret keys
+.vscode/         # Visual Studio Code configuration folder
+.idea/           # IntelliJ or PyCharm project folders
